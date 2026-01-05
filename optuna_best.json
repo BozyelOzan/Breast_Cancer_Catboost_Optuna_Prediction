@@ -1,0 +1,12 @@
+{
+  "best_value": 0.9958720330237358,
+  "best_params": {
+    "iterations": 1000,
+    "learning_rate": 0.1716925112373998,
+    "depth": 4,
+    "l2_leaf_reg": 0.12894963440109258,
+    "border_count": 143,
+    "bagging_temperature": 4.322742671375176,
+    "random_strength": 0.328687305052338
+  }
+}
