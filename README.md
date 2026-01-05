@@ -20,6 +20,8 @@ This project builds a high-performing **binary classifier** on the Breast Cancer
 
 > Results vary by split and environment. The code fixes `SEED=42` to improve reproducibility.
 
+<img src="./confusion_matrix.png" width="500" height="auto">  
+<img src="./roc_curve.png" width="500" height="auto">
 ---
 
 ## Installation
